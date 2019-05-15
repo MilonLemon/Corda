@@ -43,7 +43,7 @@ http://localhost:10050/lendBook?library=Library1&user=User2&author=A_S_Pushkin&t
 
 ![](https://github.com/MilonLemon/Corda/raw/master/materials/Library2.gif)
 
-If you go to http://localhost:10050/borrowedBooks while being a Library, you will see all the books yo have lended.
+If you go to http://localhost:10050/borrowedBooks while being a Library, you will see all the books you have lended.
 
 ***
 
