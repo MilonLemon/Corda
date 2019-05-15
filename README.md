@@ -27,7 +27,7 @@ A user can check what kind of books he had borrowed from which libraries.
 
 # How it works
 
-* If you are Library1 you can lend books to users by going to this adress:
+* If you are Library1 you can lend books to users by going to this address:
 
 http://localhost:10050/lendBook?library=Library1&user=User1&author=A_S_Pushkin&title=Eugene_Onegin
 
@@ -37,7 +37,7 @@ Also, as shown in the gif, if you enter as Library 1, you cannot lend books as L
 
 ***
 
-* If you are Library2 you can lend books to users by going to this adress:
+* If you are Library2 you can lend books to users by going to this address:
 
 http://localhost:10050/lendBook?library=Library1&user=User2&author=A_S_Pushkin&title=Capitans_Daughter
 
@@ -49,7 +49,7 @@ If you go to http://localhost:10050/borrowedBooks while being a Library, you wil
 
 * As a user, you can check from which libraries you borrowed which book. 
 
-So after entering with the right user node, you need to go to this adress: 
+So after entering with the right user node, you need to go to this address: 
 
 http://localhost:10050/borrowedBooks
 
