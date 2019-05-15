@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Corda.iml" filepath="$PROJECT_DIR$/.idea/modules/Corda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/Corda.clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/Corda.clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/Corda.clients.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/Corda.clients.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/Corda.clients.test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/Corda.clients.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/Corda.contracts.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/Corda.contracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/Corda.contracts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/Corda.contracts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/Corda.contracts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/Corda.contracts.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Corda.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Corda.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Corda.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Corda.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/Corda.workflows.test.iml" />
+    </modules>
+  </component>
+</project>

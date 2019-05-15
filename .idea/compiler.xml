@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="corda-project-master.clients.main" target="1.8" />
+      <module name="corda-project-master.clients.test" target="1.8" />
+      <module name="corda-project-master.contracts.main" target="1.8" />
+      <module name="corda-project-master.contracts.test" target="1.8" />
+      <module name="corda-project-master.main" target="1.8" />
+      <module name="corda-project-master.test" target="1.8" />
+      <module name="corda-project-master.workflows.integrationTest" target="1.8" />
+      <module name="corda-project-master.workflows.main" target="1.8" />
+      <module name="corda-project-master.workflows.test" target="1.8" />
+      <module name="Corda.clients.main" target="1.8" />
+      <module name="Corda.clients.test" target="1.8" />
+      <module name="Corda.contracts.main" target="1.8" />
+      <module name="Corda.contracts.test" target="1.8" />
+      <module name="Corda.main" target="1.8" />
+      <module name="Corda.test" target="1.8" />
+      <module name="Corda.workflows.integrationTest" target="1.8" />
+      <module name="Corda.workflows.main" target="1.8" />
+      <module name="Corda.workflows.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+  </component>
+</project>
